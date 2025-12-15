@@ -9,8 +9,8 @@ FitLogStack(
     "FitLogStack",
     description="FitLog Gym Tracker - Serverless workout tracking application",
     env=cdk.Environment(
-        account="0123456789", #Your Account Number
-        region="us-east-1"
+        account="0123456789", # Your Account Number
+        region="us-east-1"   # Your Region
     )
 )
 
