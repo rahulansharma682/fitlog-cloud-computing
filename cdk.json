@@ -52,7 +52,7 @@
     "@aws-cdk/core:includePrefixInUniqueNameGeneration": true,
     "@aws-cdk/aws-opensearchservice:enableOpensearchMultiAzWithStandby": true,
     "region": "us-east-1",
-    "notification_email": "rchemit1@jh.edu",
-    "domain_name": "rchemitiganti.com"
+    "notification_email": "youremail@example.com",
+    "domain_name": "yourdomain.com"
   }
 }
