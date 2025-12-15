@@ -1,0 +1,32 @@
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Python
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs.json
+cdk-outputs.json
+
+# Sensitive files
+.env
+credentials.json
+
+# Claude Code settings
+.claude/
